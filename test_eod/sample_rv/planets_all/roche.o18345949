@@ -1,0 +1,204 @@
+----------------------------------------
+PBS: Begin PBS Prologue Wed Nov 30 23:06:40 CST 2016 1480568800
+PBS: Job ID:		18345949.qsched03.quest.it.northwestern.edu
+PBS: Username:		ben032
+PBS: Group:		ben032
+PBS: Executing queue:     astro
+PBS: Job name:		roche
+PBS: Account:		b1011
+----------------------------------------
+   The following variables are not
+   guaranteed to be the same in 
+   prologue and the job run script  
+----------------------------------------
+PBS: Temporary Dir($TMPDIR):	/tmp/18345949.qsched03.quest.it.northwestern.edu
+PBS: Master Node($PBS_MSHOST):		qgpu0008
+PBS: node file($PBS_NODEFILE):  /hpc/opt/torque/nodes/qgpu0008/aux//18345949.qsched03.quest.it.northwestern.edu
+PBS: PATH (in prologue) : /bin:/usr/bin
+PBS: WORKDIR ($PBS_O_WORKDIR) is:  /projects/b1011/benelson/roche/test/sample_rv/planets_all
+----------------------------------------
+PBS: End PBS Prologue Wed Nov 30 23:06:40 CST 2016 1480568800
+
+Chain 0, Iteration:      1 / 200000 [  0%]  (Warmup)
+Chain 1, Iteration:      1 / 200000 [  0%]  (Warmup)
+Chain 2, Iteration:      1 / 200000 [  0%]  (Warmup)
+Chain 3, Iteration:      1 / 200000 [  0%]  (Warmup)
+Chain 4, Iteration:      1 / 200000 [  0%]  (Warmup)
+Chain 5, Iteration:      1 / 200000 [  0%]  (Warmup)
+Chain 6, Iteration:      1 / 200000 [  0%]  (Warmup)
+Chain 7, Iteration:      1 / 200000 [  0%]  (Warmup)
+Chain 8, Iteration:      1 / 200000 [  0%]  (Warmup)
+Chain 9, Iteration:      1 / 200000 [  0%]  (Warmup)
+Chain 6, Iteration:  20000 / 200000 [ 10%]  (Warmup)
+Chain 4, Iteration:  20000 / 200000 [ 10%]  (Warmup)
+Chain 7, Iteration:  20000 / 200000 [ 10%]  (Warmup)
+Chain 8, Iteration:  20000 / 200000 [ 10%]  (Warmup)
+Chain 3, Iteration:  20000 / 200000 [ 10%]  (Warmup)
+Chain 0, Iteration:  20000 / 200000 [ 10%]  (Warmup)
+Chain 1, Iteration:  20000 / 200000 [ 10%]  (Warmup)
+Chain 2, Iteration:  20000 / 200000 [ 10%]  (Warmup)
+Chain 9, Iteration:  20000 / 200000 [ 10%]  (Warmup)
+Chain 5, Iteration:  20000 / 200000 [ 10%]  (Warmup)
+Chain 6, Iteration:  40000 / 200000 [ 20%]  (Warmup)
+Chain 7, Iteration:  40000 / 200000 [ 20%]  (Warmup)
+Chain 8, Iteration:  40000 / 200000 [ 20%]  (Warmup)
+Chain 9, Iteration:  40000 / 200000 [ 20%]  (Warmup)
+Chain 5, Iteration:  40000 / 200000 [ 20%]  (Warmup)
+Chain 1, Iteration:  40000 / 200000 [ 20%]  (Warmup)
+Chain 4, Iteration:  40000 / 200000 [ 20%]  (Warmup)
+Chain 0, Iteration:  40000 / 200000 [ 20%]  (Warmup)
+Chain 2, Iteration:  40000 / 200000 [ 20%]  (Warmup)
+Chain 3, Iteration:  40000 / 200000 [ 20%]  (Warmup)
+Chain 7, Iteration:  60000 / 200000 [ 30%]  (Warmup)
+Chain 2, Iteration:  60000 / 200000 [ 30%]  (Warmup)
+Chain 5, Iteration:  60000 / 200000 [ 30%]  (Warmup)
+Chain 8, Iteration:  60000 / 200000 [ 30%]  (Warmup)
+Chain 9, Iteration:  60000 / 200000 [ 30%]  (Warmup)
+Chain 6, Iteration:  60000 / 200000 [ 30%]  (Warmup)
+Chain 0, Iteration:  60000 / 200000 [ 30%]  (Warmup)
+Chain 1, Iteration:  60000 / 200000 [ 30%]  (Warmup)
+Chain 4, Iteration:  60000 / 200000 [ 30%]  (Warmup)
+Chain 3, Iteration:  60000 / 200000 [ 30%]  (Warmup)
+Chain 2, Iteration:  80000 / 200000 [ 40%]  (Warmup)
+Chain 7, Iteration:  80000 / 200000 [ 40%]  (Warmup)
+Chain 5, Iteration:  80000 / 200000 [ 40%]  (Warmup)
+Chain 8, Iteration:  80000 / 200000 [ 40%]  (Warmup)
+Chain 9, Iteration:  80000 / 200000 [ 40%]  (Warmup)
+Chain 6, Iteration:  80000 / 200000 [ 40%]  (Warmup)
+Chain 1, Iteration:  80000 / 200000 [ 40%]  (Warmup)
+Chain 0, Iteration:  80000 / 200000 [ 40%]  (Warmup)
+Chain 4, Iteration:  80000 / 200000 [ 40%]  (Warmup)
+Chain 2, Iteration: 100000 / 200000 [ 50%]  (Warmup)
+Chain 2, Iteration: 100001 / 200000 [ 50%]  (Sampling)
+Chain 3, Iteration:  80000 / 200000 [ 40%]  (Warmup)
+Chain 7, Iteration: 100000 / 200000 [ 50%]  (Warmup)
+Chain 7, Iteration: 100001 / 200000 [ 50%]  (Sampling)
+Chain 5, Iteration: 100000 / 200000 [ 50%]  (Warmup)
+Chain 5, Iteration: 100001 / 200000 [ 50%]  (Sampling)
+Chain 2, Iteration: 120000 / 200000 [ 60%]  (Sampling)
+Chain 6, Iteration: 100000 / 200000 [ 50%]  (Warmup)
+Chain 6, Iteration: 100001 / 200000 [ 50%]  (Sampling)
+Chain 9, Iteration: 100000 / 200000 [ 50%]  (Warmup)
+Chain 9, Iteration: 100001 / 200000 [ 50%]  (Sampling)
+Chain 8, Iteration: 100000 / 200000 [ 50%]  (Warmup)
+Chain 8, Iteration: 100001 / 200000 [ 50%]  (Sampling)
+Chain 1, Iteration: 100000 / 200000 [ 50%]  (Warmup)
+Chain 1, Iteration: 100001 / 200000 [ 50%]  (Sampling)
+Chain 0, Iteration: 100000 / 200000 [ 50%]  (Warmup)
+Chain 0, Iteration: 100001 / 200000 [ 50%]  (Sampling)
+Chain 4, Iteration: 100000 / 200000 [ 50%]  (Warmup)
+Chain 4, Iteration: 100001 / 200000 [ 50%]  (Sampling)
+Chain 2, Iteration: 140000 / 200000 [ 70%]  (Sampling)
+Chain 7, Iteration: 120000 / 200000 [ 60%]  (Sampling)
+Chain 5, Iteration: 120000 / 200000 [ 60%]  (Sampling)
+Chain 6, Iteration: 120000 / 200000 [ 60%]  (Sampling)
+Chain 1, Iteration: 120000 / 200000 [ 60%]  (Sampling)
+Chain 9, Iteration: 120000 / 200000 [ 60%]  (Sampling)
+Chain 3, Iteration: 100000 / 200000 [ 50%]  (Warmup)
+Chain 3, Iteration: 100001 / 200000 [ 50%]  (Sampling)
+Chain 2, Iteration: 160000 / 200000 [ 80%]  (Sampling)
+Chain 8, Iteration: 120000 / 200000 [ 60%]  (Sampling)
+Chain 2, Iteration: 180000 / 200000 [ 90%]  (Sampling)
+Chain 0, Iteration: 120000 / 200000 [ 60%]  (Sampling)
+Chain 4, Iteration: 120000 / 200000 [ 60%]  (Sampling)
+Chain 7, Iteration: 140000 / 200000 [ 70%]  (Sampling)
+Chain 5, Iteration: 140000 / 200000 [ 70%]  (Sampling)
+Chain 6, Iteration: 140000 / 200000 [ 70%]  (Sampling)
+Chain 3, Iteration: 120000 / 200000 [ 60%]  (Sampling)
+Chain 1, Iteration: 140000 / 200000 [ 70%]  (Sampling)
+Chain 2, Iteration: 200000 / 200000 [100%]  (Sampling)# 
+#  Elapsed Time: 14954.9 seconds (Warm-up)
+#                5784.18 seconds (Sampling)
+#                20739.1 seconds (Total)
+# 
+
+Chain 9, Iteration: 140000 / 200000 [ 70%]  (Sampling)
+Chain 8, Iteration: 140000 / 200000 [ 70%]  (Sampling)
+Chain 0, Iteration: 140000 / 200000 [ 70%]  (Sampling)
+Chain 6, Iteration: 160000 / 200000 [ 80%]  (Sampling)
+Chain 4, Iteration: 140000 / 200000 [ 70%]  (Sampling)
+Chain 7, Iteration: 160000 / 200000 [ 80%]  (Sampling)
+Chain 3, Iteration: 140000 / 200000 [ 70%]  (Sampling)
+Chain 5, Iteration: 160000 / 200000 [ 80%]  (Sampling)
+Chain 1, Iteration: 160000 / 200000 [ 80%]  (Sampling)
+Chain 9, Iteration: 160000 / 200000 [ 80%]  (Sampling)
+Chain 8, Iteration: 160000 / 200000 [ 80%]  (Sampling)
+Chain 6, Iteration: 180000 / 200000 [ 90%]  (Sampling)
+Chain 0, Iteration: 160000 / 200000 [ 80%]  (Sampling)
+Chain 7, Iteration: 180000 / 200000 [ 90%]  (Sampling)
+Chain 3, Iteration: 160000 / 200000 [ 80%]  (Sampling)
+Chain 4, Iteration: 160000 / 200000 [ 80%]  (Sampling)
+Chain 5, Iteration: 180000 / 200000 [ 90%]  (Sampling)
+Chain 1, Iteration: 180000 / 200000 [ 90%]  (Sampling)
+Chain 9, Iteration: 180000 / 200000 [ 90%]  (Sampling)
+Chain 8, Iteration: 180000 / 200000 [ 90%]  (Sampling)
+Chain 6, Iteration: 200000 / 200000 [100%]  (Sampling)# 
+#  Elapsed Time: 16474.3 seconds (Warm-up)
+#                8593.08 seconds (Sampling)
+#                25067.3 seconds (Total)
+# 
+
+Chain 0, Iteration: 180000 / 200000 [ 90%]  (Sampling)
+Chain 7, Iteration: 200000 / 200000 [100%]  (Sampling)# 
+#  Elapsed Time: 15391.1 seconds (Warm-up)
+#                10364.6 seconds (Sampling)
+#                25755.8 seconds (Total)
+# 
+
+Chain 5, Iteration: 200000 / 200000 [100%]  (Sampling)# 
+#  Elapsed Time: 16272.7 seconds (Warm-up)
+#                9518.03 seconds (Sampling)
+#                25790.7 seconds (Total)
+# 
+
+Chain 3, Iteration: 180000 / 200000 [ 90%]  (Sampling)
+Chain 4, Iteration: 180000 / 200000 [ 90%]  (Sampling)
+Chain 1, Iteration: 200000 / 200000 [100%]  (Sampling)# 
+#  Elapsed Time: 16810.6 seconds (Warm-up)
+#                9235.65 seconds (Sampling)
+#                26046.2 seconds (Total)
+# 
+
+Chain 9, Iteration: 200000 / 200000 [100%]  (Sampling)# 
+#  Elapsed Time: 16588.2 seconds (Warm-up)
+#                10428.8 seconds (Sampling)
+#                27017 seconds (Total)
+# 
+
+Chain 8, Iteration: 200000 / 200000 [100%]  (Sampling)# 
+#  Elapsed Time: 16728.6 seconds (Warm-up)
+#                10331.8 seconds (Sampling)
+#                27060.4 seconds (Total)
+# 
+
+Chain 0, Iteration: 200000 / 200000 [100%]  (Sampling)# 
+#  Elapsed Time: 17572.1 seconds (Warm-up)
+#                9693.84 seconds (Sampling)
+#                27266 seconds (Total)
+# 
+
+Chain 3, Iteration: 200000 / 200000 [100%]  (Sampling)# 
+#  Elapsed Time: 18753.6 seconds (Warm-up)
+#                8680.05 seconds (Sampling)
+#                27433.6 seconds (Total)
+# 
+
+Chain 4, Iteration: 200000 / 200000 [100%]  (Sampling)# 
+#  Elapsed Time: 17613.6 seconds (Warm-up)
+#                10254.7 seconds (Sampling)
+#                27868.3 seconds (Total)
+# 
+[[  -1.50549038    2.59490223   98.25235094]
+ [  -1.21069385    2.63815189   89.87831564]
+ [  -1.00641426    2.62838008   27.37142173]
+ ..., 
+ [  -1.1137158     2.67506599  126.10793938]
+ [  -1.24400524    2.37747308  402.29528695]
+ [  -0.84992272    2.49842209   18.94799798]]
+----------------------------------------
+PBS job ended
+Begin PBS Epilogue Thu Dec  1 06:52:05 CST 2016 1480596725
+Session ID:			14160
+Resources Used:			cput=72:15:08,energy_used=0,mem=2638784kb,vmem=25258124kb,walltime=07:45:20
+Job exit value:			0
+----------------------------------------

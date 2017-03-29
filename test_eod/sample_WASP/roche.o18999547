@@ -1,0 +1,45 @@
+----------------------------------------
+PBS: Begin PBS Prologue Thu Feb  9 19:28:46 CST 2017 1486690126
+PBS: Job ID:		18999547.qsched03.quest.it.northwestern.edu
+PBS: Username:		ben032
+PBS: Group:		ben032
+PBS: Executing queue:     astro
+PBS: Job name:		roche
+PBS: Account:		b1011
+----------------------------------------
+   The following variables are not
+   guaranteed to be the same in 
+   prologue and the job run script  
+----------------------------------------
+PBS: Temporary Dir($TMPDIR):	/tmp/18999547.qsched03.quest.it.northwestern.edu
+PBS: Master Node($PBS_MSHOST):		qnode6109
+PBS: node file($PBS_NODEFILE):  /hpc/opt/torque6/nodes/qnode6109/aux//18999547.qsched03.quest.it.northwestern.edu
+PBS: PATH (in prologue) : /bin:/usr/bin
+PBS: WORKDIR ($PBS_O_WORKDIR) is:  /projects/b1011/benelson/HJs/test/sample_WASP
+----------------------------------------
+PBS: End PBS Prologue Thu Feb  9 19:28:46 CST 2017 1486690126
+
+Chain 0, Iteration:      1 / 600000 [  0%]  (Warmup)
+Chain 0, Iteration:  60000 / 600000 [ 10%]  (Warmup)
+Chain 0, Iteration: 120000 / 600000 [ 20%]  (Warmup)
+Chain 0, Iteration: 180000 / 600000 [ 30%]  (Warmup)
+Chain 0, Iteration: 240000 / 600000 [ 40%]  (Warmup)
+Chain 0, Iteration: 300000 / 600000 [ 50%]  (Warmup)
+Chain 0, Iteration: 300001 / 600000 [ 50%]  (Sampling)
+Chain 0, Iteration: 360000 / 600000 [ 60%]  (Sampling)
+Chain 0, Iteration: 420000 / 600000 [ 70%]  (Sampling)
+Chain 0, Iteration: 480000 / 600000 [ 80%]  (Sampling)
+Chain 0, Iteration: 540000 / 600000 [ 90%]  (Sampling)
+Chain 0, Iteration: 600000 / 600000 [100%]  (Sampling)# 
+#  Elapsed Time: 97741.2 seconds (Warm-up)
+#                100953 seconds (Sampling)
+#                198695 seconds (Total)
+# 
+----------------------------------------
+PBS job ended
+Begin PBS Epilogue Sun Feb 12 02:40:18 CST 2017 1486888818
+JobID: 18999547.qsched03.quest.it.northwestern.edu
+Session ID:			27020
+Resources Used:			cput=55:12:30,energy_used=0,mem=294940kb,vmem=2457872kb,walltime=55:11:27
+Job exit value:			0
+----------------------------------------

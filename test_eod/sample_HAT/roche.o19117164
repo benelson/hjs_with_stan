@@ -1,0 +1,28 @@
+----------------------------------------
+PBS: Begin PBS Prologue Tue Feb 14 11:14:34 CST 2017 1487092474
+PBS: Job ID:		19117164.qsched03.quest.it.northwestern.edu
+PBS: Username:		ben032
+PBS: Group:		ben032
+PBS: Executing queue:     astro
+PBS: Job name:		roche
+PBS: Account:		b1011
+----------------------------------------
+   The following variables are not
+   guaranteed to be the same in 
+   prologue and the job run script  
+----------------------------------------
+PBS: Temporary Dir($TMPDIR):	/tmp/19117164.qsched03.quest.it.northwestern.edu
+PBS: Master Node($PBS_MSHOST):		qnode6109
+PBS: node file($PBS_NODEFILE):  /hpc/opt/torque6/nodes/qnode6109/aux//19117164.qsched03.quest.it.northwestern.edu
+PBS: PATH (in prologue) : /bin:/usr/bin
+PBS: WORKDIR ($PBS_O_WORKDIR) is:  /projects/b1011/benelson/HJs/test/sample_HAT
+----------------------------------------
+PBS: End PBS Prologue Tue Feb 14 11:14:34 CST 2017 1487092474
+----------------------------------------
+PBS job ended
+Begin PBS Epilogue Tue Feb 14 11:14:40 CST 2017 1487092480
+JobID: 19117164.qsched03.quest.it.northwestern.edu
+Session ID:			4686
+Resources Used:			cput=00:00:02,energy_used=0,mem=0kb,vmem=0kb,walltime=00:00:01
+Job exit value:			1
+----------------------------------------

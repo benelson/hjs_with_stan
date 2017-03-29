@@ -1,0 +1,44 @@
+----------------------------------------
+PBS: Begin PBS Prologue Mon Mar  6 22:40:03 CST 2017 1488861603
+PBS: Job ID:		19397733.qsched03.quest.it.northwestern.edu
+PBS: Username:		ben032
+PBS: Group:		ben032
+PBS: Executing queue:     astro
+PBS: Job name:		roche
+PBS: Account:		b1011
+----------------------------------------
+   The following variables are not
+   guaranteed to be the same in 
+   prologue and the job run script  
+----------------------------------------
+PBS: Temporary Dir($TMPDIR):	/tmp/19397733.qsched03.quest.it.northwestern.edu
+PBS: Master Node($PBS_MSHOST):		qgpu0010
+PBS: node file($PBS_NODEFILE):  /hpc/opt/torque/nodes/qgpu0010/aux//19397733.qsched03.quest.it.northwestern.edu
+PBS: PATH (in prologue) : /bin:/usr/bin
+PBS: WORKDIR ($PBS_O_WORKDIR) is:  /projects/b1011/benelson/hjs_with_NEA/test/sample_HAT
+----------------------------------------
+PBS: End PBS Prologue Mon Mar  6 22:40:03 CST 2017 1488861603
+
+Chain 0, Iteration:      1 / 600000 [  0%]  (Warmup)
+Chain 0, Iteration:  60000 / 600000 [ 10%]  (Warmup)
+Chain 0, Iteration: 120000 / 600000 [ 20%]  (Warmup)
+Chain 0, Iteration: 180000 / 600000 [ 30%]  (Warmup)
+Chain 0, Iteration: 240000 / 600000 [ 40%]  (Warmup)
+Chain 0, Iteration: 300000 / 600000 [ 50%]  (Warmup)
+Chain 0, Iteration: 300001 / 600000 [ 50%]  (Sampling)
+Chain 0, Iteration: 360000 / 600000 [ 60%]  (Sampling)
+Chain 0, Iteration: 420000 / 600000 [ 70%]  (Sampling)
+Chain 0, Iteration: 480000 / 600000 [ 80%]  (Sampling)
+Chain 0, Iteration: 540000 / 600000 [ 90%]  (Sampling)
+Chain 0, Iteration: 600000 / 600000 [100%]  (Sampling)# 
+#  Elapsed Time: 84535.3 seconds (Warm-up)
+#                88601.1 seconds (Sampling)
+#                173136 seconds (Total)
+# 
+----------------------------------------
+PBS job ended
+Begin PBS Epilogue Wed Mar  8 22:47:49 CST 2017 1489034869
+Session ID:			26693
+Resources Used:			cput=48:06:31,energy_used=0,mem=870820kb,vmem=2241200kb,walltime=48:07:41
+Job exit value:			0
+----------------------------------------

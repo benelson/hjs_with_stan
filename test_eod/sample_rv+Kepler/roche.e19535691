@@ -1,0 +1,18 @@
+INFO:pystan:COMPILING THE C++ CODE FOR MODEL anon_model_3b828e7171be6416a41cab3645213605 NOW.
+Traceback (most recent call last):
+  File "run_pystan_2comp_2xl_overlap.py", line 34, in <module>
+    fit = pystan.stan(file=modelfile, data=Stan_data, iter=nIterations, chains=nChains, thin=nThin, init=Stan_ICs, n_jobs=nJobs)
+  File "/home/ben032/.local/lib/python2.7/site-packages/pystan/api.py", line 380, in stan
+    n_jobs=n_jobs, **kwargs)
+  File "/home/ben032/.local/lib/python2.7/site-packages/pystan/model.py", line 721, in sampling
+    ret_and_samples = _map_parallel(call_sampler_star, call_sampler_args, n_jobs)
+  File "/home/ben032/.local/lib/python2.7/site-packages/pystan/model.py", line 81, in _map_parallel
+    map_result = pool.map(function, args)
+  File "/software/anaconda2/lib/python2.7/multiprocessing/pool.py", line 251, in map
+    return self.map_async(func, iterable, chunksize).get()
+  File "/software/anaconda2/lib/python2.7/multiprocessing/pool.py", line 567, in get
+    raise self._value
+RuntimeError: Rejecting initial value:
+  Log probability evaluates to log(0), i.e. negative infinity.
+  Stan can't start sampling from this initial value.
+

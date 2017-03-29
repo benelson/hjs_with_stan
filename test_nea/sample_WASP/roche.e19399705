@@ -1,0 +1,11 @@
+INFO:pystan:COMPILING THE C++ CODE FOR MODEL anon_model_0d951d19679772f990d4c6eade90a5bf NOW.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 26: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1773.49
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 26: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 38.4735
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.

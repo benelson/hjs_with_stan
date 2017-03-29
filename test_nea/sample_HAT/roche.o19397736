@@ -1,0 +1,45 @@
+----------------------------------------
+PBS: Begin PBS Prologue Mon Mar  6 22:40:17 CST 2017 1488861617
+PBS: Job ID:		19397736.qsched03.quest.it.northwestern.edu
+PBS: Username:		ben032
+PBS: Group:		ben032
+PBS: Executing queue:     astro
+PBS: Job name:		roche
+PBS: Account:		b1011
+----------------------------------------
+   The following variables are not
+   guaranteed to be the same in 
+   prologue and the job run script  
+----------------------------------------
+PBS: Temporary Dir($TMPDIR):	/tmp/19397736.qsched03.quest.it.northwestern.edu
+PBS: Master Node($PBS_MSHOST):		qnode5228
+PBS: node file($PBS_NODEFILE):  /hpc/opt/torque6/nodes/qnode5228/aux//19397736.qsched03.quest.it.northwestern.edu
+PBS: PATH (in prologue) : /bin:/usr/bin
+PBS: WORKDIR ($PBS_O_WORKDIR) is:  /projects/b1011/benelson/hjs_with_NEA/test/sample_HAT
+----------------------------------------
+PBS: End PBS Prologue Mon Mar  6 22:40:17 CST 2017 1488861617
+
+Chain 0, Iteration:      1 / 600000 [  0%]  (Warmup)
+Chain 0, Iteration:  60000 / 600000 [ 10%]  (Warmup)
+Chain 0, Iteration: 120000 / 600000 [ 20%]  (Warmup)
+Chain 0, Iteration: 180000 / 600000 [ 30%]  (Warmup)
+Chain 0, Iteration: 240000 / 600000 [ 40%]  (Warmup)
+Chain 0, Iteration: 300000 / 600000 [ 50%]  (Warmup)
+Chain 0, Iteration: 300001 / 600000 [ 50%]  (Sampling)
+Chain 0, Iteration: 360000 / 600000 [ 60%]  (Sampling)
+Chain 0, Iteration: 420000 / 600000 [ 70%]  (Sampling)
+Chain 0, Iteration: 480000 / 600000 [ 80%]  (Sampling)
+Chain 0, Iteration: 540000 / 600000 [ 90%]  (Sampling)
+Chain 0, Iteration: 600000 / 600000 [100%]  (Sampling)# 
+#  Elapsed Time: 84693.8 seconds (Warm-up)
+#                90330.4 seconds (Sampling)
+#                175024 seconds (Total)
+# 
+----------------------------------------
+PBS job ended
+Begin PBS Epilogue Wed Mar  8 23:17:22 CST 2017 1489036642
+JobID: 19397736.qsched03.quest.it.northwestern.edu
+Session ID:			12938
+Resources Used:			cput=48:37:56,energy_used=0,mem=439644kb,vmem=2604916kb,walltime=48:36:59
+Job exit value:			0
+----------------------------------------

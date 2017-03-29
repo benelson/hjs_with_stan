@@ -1,0 +1,9 @@
+#MOAB -l nodes=1:ppn=1
+#MOAB -l walltime=07:00:00:00
+#MOAB -A b1011
+#MOAB -q astro
+#MOAB -N roche
+
+cd $PBS_O_WORKDIR
+module load python
+python run_pystan_2comp_2xl_overlap.py $MOAB_JOBARRAYINDEX

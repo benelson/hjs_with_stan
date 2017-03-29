@@ -1,4 +1,4 @@
-# hjs-with-stan
+# hjs_with_stan
 
 
 Hot Jupiter population inference using a statistical modeling package [Stan](http://mc-stan.org/).
@@ -10,6 +10,7 @@ Dependencies
 Besides a standard Python installation with numpy, matplotlib, etc., you will also need...
 
 -[daft](http://daft-pgm.org/), for probabilistic graphical modeling
+
 -[pystan](https://pystan.readthedocs.io/en/latest/), for doing MCMC with Stan (in addition to any of Stan's dependencies)
 
 

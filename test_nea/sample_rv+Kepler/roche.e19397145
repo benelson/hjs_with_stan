@@ -1,0 +1,301 @@
+INFO:pystan:COMPILING THE C++ CODE FOR MODEL anon_model_216d5ea46dcac4e1a86c1b5f6299c237 NOW.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.85364e+23
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 2.74337e+23
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.70036e+06
+If this warning occurs sporadically, such as for highly 
+constrained variable types like covariance matrices, then Informational Message: The current Metropolis proposal the sampler is fine,is about to be rejected because of the following issue:
+
+but if this warning occurs often then your model may be Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 8.73641e+23either severely ill-conditioned or misspecified.
+If this warning occurs sporadically, such as for highly 
+constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+
+Informational Message: The current Metropolis proposal Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 55.7276is about to be rejected because of the following issue:
+
+If this warning occurs sporadically, such as for highly Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 2.23956e+24constrained variable types like covariance matrices, then 
+the sampler is fine,If this warning occurs sporadically, such as for highly 
+constrained variable types like covariance matrices, then but if this warning occurs often then your model may be the sampler is fine,either severely ill-conditioned or misspecified.
+
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.01048e+06
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 41.5457
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+
+Informational Message: The current Metropolis proposal Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.67917e+24is about to be rejected because of the following issue:
+
+If this warning occurs sporadically, such as for highly Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.29278e+23constrained variable types like covariance matrices, then 
+the sampler is fine,If this warning occurs sporadically, such as for highly 
+
+constrained variable types like covariance matrices, then Informational Message: The current Metropolis proposal but if this warning occurs often then your model may be the sampler is fine,either severely ill-conditioned or misspecified.is about to be rejected because of the following issue:
+
+
+
+but if this warning occurs often then your model may be Informational Message: The current Metropolis proposal Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.09813e+24either severely ill-conditioned or misspecified.is about to be rejected because of the following issue:
+
+
+
+
+
+If this warning occurs sporadically, such as for highly Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal Exception thrown at line 53: stan::math::uniform_log: Lower bound parameter is inf, but must be finite!
+constrained variable types like covariance matrices, then is about to be rejected because of the following issue:is about to be rejected because of the following issue:is about to be rejected because of the following issue:
+Informational Message: The current Metropolis proposal the sampler is fine,
+
+
+
+If this warning occurs sporadically, such as for highly is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.45817e+24Exception thrown at line 53: stan::math::uniform_log: Lower bound parameter is inf, but must be finite!Informational Message: The current Metropolis proposal Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.00053e+24constrained variable types like covariance matrices, then 
+but if this warning occurs often then your model may be 
+
+
+is about to be rejected because of the following issue:the sampler is fine,Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 5.62069e+23either severely ill-conditioned or misspecified.If this warning occurs sporadically, such as for highly If this warning occurs sporadically, such as for highly If this warning occurs sporadically, such as for highly 
+
+
+
+constrained variable types like covariance matrices, then constrained variable types like covariance matrices, then constrained variable types like covariance matrices, then Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 5.99164e+23but if this warning occurs often then your model may be If this warning occurs sporadically, such as for highly 
+the sampler is fine,the sampler is fine,the sampler is fine,
+either severely ill-conditioned or misspecified.constrained variable types like covariance matrices, then Informational Message: The current Metropolis proposal 
+
+
+If this warning occurs sporadically, such as for highly 
+the sampler is fine,is about to be rejected because of the following issue:
+but if this warning occurs often then your model may be but if this warning occurs often then your model may be but if this warning occurs often then your model may be constrained variable types like covariance matrices, then 
+
+Informational Message: The current Metropolis proposal either severely ill-conditioned or misspecified.either severely ill-conditioned or misspecified.either severely ill-conditioned or misspecified.the sampler is fine,but if this warning occurs often then your model may be Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 2.03279e+24is about to be rejected because of the following issue:
+
+
+
+
+either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal but if this warning occurs often then your model may be 
+If this warning occurs sporadically, such as for highly Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 2.01325e+24is about to be rejected because of the following issue:either severely ill-conditioned or misspecified.
+
+
+constrained variable types like covariance matrices, then 
+
+
+
+
+Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal the sampler is fine,If this warning occurs sporadically, such as for highly Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 8.66042e+13Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:is about to be rejected because of the following issue:is about to be rejected because of the following issue:
+
+constrained variable types like covariance matrices, then 
+is about to be rejected because of the following issue:is about to be rejected because of the following issue:
+
+
+but if this warning occurs often then your model may be 
+Informational Message: The current Metropolis proposal the sampler is fine,If this warning occurs sporadically, such as for highly 
+
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 2.66592e+12Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.37547e+06Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 7.13673e+23either severely ill-conditioned or misspecified.Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+constrained variable types like covariance matrices, then Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.33742e+06Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.48885e+24
+
+
+
+is about to be rejected because of the following issue:
+but if this warning occurs often then your model may be the sampler is fine,
+
+If this warning occurs sporadically, such as for highly If this warning occurs sporadically, such as for highly If this warning occurs sporadically, such as for highly 
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 5.22071e+23either severely ill-conditioned or misspecified.
+If this warning occurs sporadically, such as for highly If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then constrained variable types like covariance matrices, then constrained variable types like covariance matrices, then 
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 5.67874e+24
+
+but if this warning occurs often then your model may be constrained variable types like covariance matrices, then constrained variable types like covariance matrices, then the sampler is fine,the sampler is fine,the sampler is fine,Informational Message: The current Metropolis proposal 
+If this warning occurs sporadically, such as for highly either severely ill-conditioned or misspecified.the sampler is fine,the sampler is fine,
+
+
+is about to be rejected because of the following issue:If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then 
+
+
+but if this warning occurs often then your model may be 
+but if this warning occurs often then your model may be but if this warning occurs often then your model may be 
+constrained variable types like covariance matrices, then the sampler is fine,but if this warning occurs often then your model may be but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.Informational Message: The current Metropolis proposal either severely ill-conditioned or misspecified.either severely ill-conditioned or misspecified.Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.81157e+24the sampler is fine,
+either severely ill-conditioned or misspecified.either severely ill-conditioned or misspecified.
+is about to be rejected because of the following issue:
+
+
+
+but if this warning occurs often then your model may be 
+
+
+If this warning occurs sporadically, such as for highly but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.12501e+06constrained variable types like covariance matrices, then either severely ill-conditioned or misspecified.
+
+the sampler is fine,
+
+
+If this warning occurs sporadically, such as for highly 
+
+Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal 
+constrained variable types like covariance matrices, then but if this warning occurs often then your model may be Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:is about to be rejected because of the following issue:
+Informational Message: The current Metropolis proposal the sampler is fine,either severely ill-conditioned or misspecified.
+is about to be rejected because of the following issue:
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+
+Informational Message: The current Metropolis proposal 
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 39.681Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 2.34293e+06is about to be rejected because of the following issue:
+but if this warning occurs often then your model may be is about to be rejected because of the following issue:Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 51.2912
+
+
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 6.41151e+23either severely ill-conditioned or misspecified.
+
+If this warning occurs sporadically, such as for highly 
+If this warning occurs sporadically, such as for highly Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 903235
+
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 2.34492e+24If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then Informational Message: The current Metropolis proposal constrained variable types like covariance matrices, then 
+If this warning occurs sporadically, such as for highly 
+constrained variable types like covariance matrices, then the sampler is fine,is about to be rejected because of the following issue:the sampler is fine,If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then If this warning occurs sporadically, such as for highly the sampler is fine,
+
+
+
+constrained variable types like covariance matrices, then the sampler is fine,constrained variable types like covariance matrices, then 
+but if this warning occurs often then your model may be Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.65629e+06but if this warning occurs often then your model may be Informational Message: The current Metropolis proposal the sampler is fine,
+the sampler is fine,but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+either severely ill-conditioned or misspecified.is about to be rejected because of the following issue:
+but if this warning occurs often then your model may be 
+either severely ill-conditioned or misspecified.
+If this warning occurs sporadically, such as for highly 
+
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.but if this warning occurs often then your model may be 
+constrained variable types like covariance matrices, then Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 40.7255either severely ill-conditioned or misspecified.
+either severely ill-conditioned or misspecified.the sampler is fine,
+
+
+
+If this warning occurs sporadically, such as for highly 
+but if this warning occurs often then your model may be constrained variable types like covariance matrices, then Informational Message: The current Metropolis proposal either severely ill-conditioned or misspecified.the sampler is fine,is about to be rejected because of the following issue:
+
+
+
+
+Informational Message: The current Metropolis proposal 
+but if this warning occurs often then your model may be Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 54.7212Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:Informational Message: The current Metropolis proposal either severely ill-conditioned or misspecified.
+is about to be rejected because of the following issue:
+is about to be rejected because of the following issue:
+
+If this warning occurs sporadically, such as for highly 
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.66101e+06
+Informational Message: The current Metropolis proposal constrained variable types like covariance matrices, then Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 55.6623
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.10154e+06is about to be rejected because of the following issue:the sampler is fine,
+If this warning occurs sporadically, such as for highly 
+
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then If this warning occurs sporadically, such as for highly Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 72.3926but if this warning occurs often then your model may be constrained variable types like covariance matrices, then the sampler is fine,constrained variable types like covariance matrices, then 
+either severely ill-conditioned or misspecified.the sampler is fine,
+the sampler is fine,If this warning occurs sporadically, such as for highly 
+
+but if this warning occurs often then your model may be 
+constrained variable types like covariance matrices, then but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.but if this warning occurs often then your model may be the sampler is fine,either severely ill-conditioned or misspecified.
+either severely ill-conditioned or misspecified.
+
+
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 41.5372
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then 
+the sampler is fine,Informational Message: The current Metropolis proposal 
+is about to be rejected because of the following issue:but if this warning occurs often then your model may be 
+either severely ill-conditioned or misspecified.Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 30.8557
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Lower bound parameter is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.68329e+13
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Lower bound parameter is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+
+Informational Message: The current Metropolis proposal Exception thrown at line 53: stan::math::uniform_log: Lower bound parameter is inf, but must be finite!is about to be rejected because of the following issue:
+
+If this warning occurs sporadically, such as for highly Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.56676e+21constrained variable types like covariance matrices, then 
+the sampler is fine,If this warning occurs sporadically, such as for highly 
+constrained variable types like covariance matrices, then but if this warning occurs often then your model may be the sampler is fine,either severely ill-conditioned or misspecified.
+
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+
+Exception thrown at line 53: stan::math::uniform_log: Lower bound parameter is inf, but must be finite!Informational Message: The current Metropolis proposal 
+
+is about to be rejected because of the following issue:Informational Message: The current Metropolis proposal If this warning occurs sporadically, such as for highly 
+is about to be rejected because of the following issue:constrained variable types like covariance matrices, then Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.34265e+29
+
+the sampler is fine,
+Informational Message: The current Metropolis proposal Exception thrown at line 53: stan::math::uniform_log: Lower bound parameter is inf, but must be finite!
+If this warning occurs sporadically, such as for highly is about to be rejected because of the following issue:
+but if this warning occurs often then your model may be constrained variable types like covariance matrices, then 
+If this warning occurs sporadically, such as for highly either severely ill-conditioned or misspecified.the sampler is fine,Exception thrown at line 53: stan::math::uniform_log: Lower bound parameter is inf, but must be finite!constrained variable types like covariance matrices, then 
+
+
+
+the sampler is fine,but if this warning occurs often then your model may be If this warning occurs sporadically, such as for highly 
+Informational Message: The current Metropolis proposal 
+either severely ill-conditioned or misspecified.constrained variable types like covariance matrices, then Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:but if this warning occurs often then your model may be 
+the sampler is fine,
+is about to be rejected because of the following issue:
+either severely ill-conditioned or misspecified.
+Informational Message: The current Metropolis proposal 
+Exception thrown at line 53: stan::math::uniform_log: Lower bound parameter is inf, but must be finite!
+but if this warning occurs often then your model may be is about to be rejected because of the following issue:Exception thrown at line 53: stan::math::uniform_log: Lower bound parameter is inf, but must be finite!
+either severely ill-conditioned or misspecified.
+
+If this warning occurs sporadically, such as for highly 
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 2.39253e+13If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then 
+constrained variable types like covariance matrices, then the sampler is fine,If this warning occurs sporadically, such as for highly the sampler is fine,
+
+constrained variable types like covariance matrices, then 
+but if this warning occurs often then your model may be Informational Message: The current Metropolis proposal the sampler is fine,but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.is about to be rejected because of the following issue:
+
+either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal but if this warning occurs often then your model may be 
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 3.42105e+13is about to be rejected because of the following issue:either severely ill-conditioned or misspecified.
+
+
+If this warning occurs sporadically, such as for highly Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 2.2271e+13constrained variable types like covariance matrices, then 
+
+the sampler is fine,If this warning occurs sporadically, such as for highly Informational Message: The current Metropolis proposal 
+
+constrained variable types like covariance matrices, then is about to be rejected because of the following issue:Informational Message: The current Metropolis proposal but if this warning occurs often then your model may be the sampler is fine,
+is about to be rejected because of the following issue:either severely ill-conditioned or misspecified.
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 1.13517e+13
+
+but if this warning occurs often then your model may be 
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 30, but must be greater than 3.22228e+13either severely ill-conditioned or misspecified.If this warning occurs sporadically, such as for highly 
+
+constrained variable types like covariance matrices, then If this warning occurs sporadically, such as for highly the sampler is fine,constrained variable types like covariance matrices, then 
+the sampler is fine,but if this warning occurs often then your model may be 
+either severely ill-conditioned or misspecified.but if this warning occurs often then your model may be 
+either severely ill-conditioned or misspecified.

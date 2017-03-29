@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "run_pystan_1comp.py", line 15, in <module>
+    data = getData.exoplanetsORG_to_dict(filename)
+  File "/projects/b1011/benelson/HJs/test/sample_HAT/getData.py", line 37, in exoplanetsORG_to_dict
+    tmp = create_array_from_file(filename)
+  File "/projects/b1011/benelson/HJs/test/sample_HAT/getData.py", line 32, in create_array_from_file
+    with open(filename) as f:
+IOError: [Errno 2] No such file or directory: 'planets.in'

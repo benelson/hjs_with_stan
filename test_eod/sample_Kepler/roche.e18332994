@@ -1,0 +1,331 @@
+INFO:pystan:COMPILING THE C++ CODE FOR MODEL anon_model_3f4c9247696c11cb61fcda6ad6b6adf2 NOW.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 3.63721e+11
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 2.32282e+12
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1113.82
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.87213e+12
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.39413e+12
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1119.53
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.98118e+12
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 2.9019e+11
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+
+
+Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal 
+Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1240.11is about to be rejected because of the following issue:is about to be rejected because of the following issue:Informational Message: The current Metropolis proposal 
+
+
+is about to be rejected because of the following issue:If this warning occurs sporadically, such as for highly Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.89225e+12Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 8.23644e+11
+constrained variable types like covariance matrices, then 
+
+Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 4.09145e+11the sampler is fine,If this warning occurs sporadically, such as for highly If this warning occurs sporadically, such as for highly 
+
+constrained variable types like covariance matrices, then constrained variable types like covariance matrices, then If this warning occurs sporadically, such as for highly but if this warning occurs often then your model may be the sampler is fine,the sampler is fine,constrained variable types like covariance matrices, then either severely ill-conditioned or misspecified.
+
+the sampler is fine,
+but if this warning occurs often then your model may be but if this warning occurs often then your model may be 
+
+
+
+either severely ill-conditioned or misspecified.either severely ill-conditioned or misspecified.but if this warning occurs often then your model may be Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal 
+
+either severely ill-conditioned or misspecified.is about to be rejected because of the following issue:is about to be rejected because of the following issue:is about to be rejected because of the following issue:
+
+
+
+
+
+Informational Message: The current Metropolis proposal 
+Informational Message: The current Metropolis proposal Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.36768e+12Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 6.52944e+12Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 2.15857e+12is about to be rejected because of the following issue:Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+
+
+
+is about to be rejected because of the following issue:
+If this warning occurs sporadically, such as for highly If this warning occurs sporadically, such as for highly If this warning occurs sporadically, such as for highly Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.80478e+11
+Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 9.18691e+11constrained variable types like covariance matrices, then constrained variable types like covariance matrices, then constrained variable types like covariance matrices, then 
+Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 3.23124e+11
+the sampler is fine,the sampler is fine,the sampler is fine,If this warning occurs sporadically, such as for highly 
+If this warning occurs sporadically, such as for highly 
+
+
+constrained variable types like covariance matrices, then If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then but if this warning occurs often then your model may be but if this warning occurs often then your model may be but if this warning occurs often then your model may be the sampler is fine,constrained variable types like covariance matrices, then the sampler is fine,either severely ill-conditioned or misspecified.either severely ill-conditioned or misspecified.either severely ill-conditioned or misspecified.
+the sampler is fine,
+
+
+
+but if this warning occurs often then your model may be 
+but if this warning occurs often then your model may be 
+
+
+either severely ill-conditioned or misspecified.but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal 
+either severely ill-conditioned or misspecified.
+is about to be rejected because of the following issue:is about to be rejected because of the following issue:is about to be rejected because of the following issue:
+
+
+
+
+
+Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.39846e+13Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 9.628e+12Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.39893e+12is about to be rejected because of the following issue:is about to be rejected because of the following issue:
+
+
+
+
+If this warning occurs sporadically, such as for highly If this warning occurs sporadically, such as for highly If this warning occurs sporadically, such as for highly Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1590.35Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 2.81411e+12constrained variable types like covariance matrices, then constrained variable types like covariance matrices, then constrained variable types like covariance matrices, then 
+
+the sampler is fine,the sampler is fine,the sampler is fine,If this warning occurs sporadically, such as for highly If this warning occurs sporadically, such as for highly 
+
+
+constrained variable types like covariance matrices, then constrained variable types like covariance matrices, then but if this warning occurs often then your model may be but if this warning occurs often then your model may be but if this warning occurs often then your model may be the sampler is fine,the sampler is fine,either severely ill-conditioned or misspecified.either severely ill-conditioned or misspecified.either severely ill-conditioned or misspecified.
+
+
+
+
+but if this warning occurs often then your model may be but if this warning occurs often then your model may be 
+
+
+either severely ill-conditioned or misspecified.either severely ill-conditioned or misspecified.Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal 
+
+is about to be rejected because of the following issue:is about to be rejected because of the following issue:is about to be rejected because of the following issue:
+
+
+
+Informational Message: The current Metropolis proposal Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 2214.24Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 2752.78Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1348.45is about to be rejected because of the following issue:
+
+
+
+If this warning occurs sporadically, such as for highly If this warning occurs sporadically, such as for highly If this warning occurs sporadically, such as for highly Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.01705e+12constrained variable types like covariance matrices, then constrained variable types like covariance matrices, then constrained variable types like covariance matrices, then 
+the sampler is fine,the sampler is fine,the sampler is fine,If this warning occurs sporadically, such as for highly 
+
+
+constrained variable types like covariance matrices, then but if this warning occurs often then your model may be but if this warning occurs often then your model may be but if this warning occurs often then your model may be the sampler is fine,either severely ill-conditioned or misspecified.either severely ill-conditioned or misspecified.either severely ill-conditioned or misspecified.
+
+
+
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 116: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 3372.71
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[1] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[1] is inf, but must be finite!
+
+If this warning occurs sporadically, such as for highly Informational Message: The current Metropolis proposal constrained variable types like covariance matrices, then is about to be rejected because of the following issue:the sampler is fine,
+
+Exception thrown at line 78: stan::math::normal_log: Location parameter[1] is inf, but must be finite!but if this warning occurs often then your model may be 
+either severely ill-conditioned or misspecified.If this warning occurs sporadically, such as for highly 
+constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[1] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly 
+constrained variable types like covariance matrices, then Informational Message: The current Metropolis proposal the sampler is fine,is about to be rejected because of the following issue:
+
+but if this warning occurs often then your model may be Exception thrown at line 78: stan::math::normal_log: Location parameter[1] is inf, but must be finite!either severely ill-conditioned or misspecified.
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[24] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then 
+the sampler is fine,Informational Message: The current Metropolis proposal 
+is about to be rejected because of the following issue:
+but if this warning occurs often then your model may be Exception thrown at line 78: stan::math::normal_log: Location parameter[1] is inf, but must be finite!either severely ill-conditioned or misspecified.
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[10] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[2] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[2] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[2] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[1] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[3] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[1] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[3] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[1] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[3] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[22] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[25] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[1] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[1] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[1] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[3] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[1] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[3] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[4] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be 
+either severely ill-conditioned or misspecified.Informational Message: The current Metropolis proposal 
+is about to be rejected because of the following issue:
+
+Exception thrown at line 78: stan::math::normal_log: Location parameter[1] is inf, but must be finite!Informational Message: The current Metropolis proposal 
+is about to be rejected because of the following issue:If this warning occurs sporadically, such as for highly 
+constrained variable types like covariance matrices, then Exception thrown at line 78: stan::math::normal_log: Location parameter[3] is inf, but must be finite!the sampler is fine,
+
+
+If this warning occurs sporadically, such as for highly Informational Message: The current Metropolis proposal but if this warning occurs often then your model may be constrained variable types like covariance matrices, then is about to be rejected because of the following issue:either severely ill-conditioned or misspecified.the sampler is fine,
+
+
+Exception thrown at line 78: stan::math::normal_log: Location parameter[4] is inf, but must be finite!but if this warning occurs often then your model may be 
+either severely ill-conditioned or misspecified.If this warning occurs sporadically, such as for highly 
+constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[1] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[3] is inf, but must be finite!
+
+If this warning occurs sporadically, such as for highly Informational Message: The current Metropolis proposal constrained variable types like covariance matrices, then is about to be rejected because of the following issue:the sampler is fine,
+
+Exception thrown at line 78: stan::math::normal_log: Location parameter[4] is inf, but must be finite!
+but if this warning occurs often then your model may be 
+Informational Message: The current Metropolis proposal either severely ill-conditioned or misspecified.If this warning occurs sporadically, such as for highly is about to be rejected because of the following issue:
+constrained variable types like covariance matrices, then 
+the sampler is fine,Exception thrown at line 78: stan::math::normal_log: Location parameter[24] is inf, but must be finite!
+
+but if this warning occurs often then your model may be If this warning occurs sporadically, such as for highly either severely ill-conditioned or misspecified.constrained variable types like covariance matrices, then 
+the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[5] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[26] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[5] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[5] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 78: stan::math::normal_log: Location parameter[25] is inf, but must be finite!
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.

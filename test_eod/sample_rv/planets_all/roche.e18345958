@@ -1,0 +1,186 @@
+INFO:pystan:COMPILING THE C++ CODE FOR MODEL anon_model_92deb76429acb819c4c72f2fe1fd6de0 NOW.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 5.63824e+11
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 5.0674e+11
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.81764e+10
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 6.86225e+10
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1090.3
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 8.33743e+10
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 6.77445e+11
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.01565e+11
+Informational Message: The current Metropolis proposal If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then is about to be rejected because of the following issue:the sampler is fine,
+
+but if this warning occurs often then your model may be Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 2461.71either severely ill-conditioned or misspecified.
+
+
+
+
+Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal 
+If this warning occurs sporadically, such as for highly 
+is about to be rejected because of the following issue:
+is about to be rejected because of the following issue:is about to be rejected because of the following issue:Informational Message: The current Metropolis proposal constrained variable types like covariance matrices, then Informational Message: The current Metropolis proposal 
+
+Informational Message: The current Metropolis proposal 
+
+
+is about to be rejected because of the following issue:the sampler is fine,is about to be rejected because of the following issue:Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 2.75098e+11
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.89792e+12Informational Message: The current Metropolis proposal Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.75703e+11
+
+
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+
+is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.53627e+61but if this warning occurs often then your model may be Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 8.7094e+58If this warning occurs sporadically, such as for highly is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.25804e+11If this warning occurs sporadically, such as for highly 
+If this warning occurs sporadically, such as for highly 
+either severely ill-conditioned or misspecified.
+constrained variable types like covariance matrices, then 
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 2.36201e+10
+constrained variable types like covariance matrices, then Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 3.76971e+11constrained variable types like covariance matrices, then If this warning occurs sporadically, such as for highly 
+If this warning occurs sporadically, such as for highly the sampler is fine,Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.26794e+11
+If this warning occurs sporadically, such as for highly the sampler is fine,
+the sampler is fine,constrained variable types like covariance matrices, then constrained variable types like covariance matrices, then 
+
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then 
+If this warning occurs sporadically, such as for highly 
+the sampler is fine,the sampler is fine,but if this warning occurs often then your model may be If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,but if this warning occurs often then your model may be constrained variable types like covariance matrices, then but if this warning occurs often then your model may be 
+
+either severely ill-conditioned or misspecified.constrained variable types like covariance matrices, then the sampler is fine,
+either severely ill-conditioned or misspecified.the sampler is fine,either severely ill-conditioned or misspecified.but if this warning occurs often then your model may be but if this warning occurs often then your model may be 
+the sampler is fine,
+but if this warning occurs often then your model may be 
+
+
+either severely ill-conditioned or misspecified.either severely ill-conditioned or misspecified.
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.but if this warning occurs often then your model may be 
+
+
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+either severely ill-conditioned or misspecified.
+Informational Message: The current Metropolis proposal either severely ill-conditioned or misspecified.
+Informational Message: The current Metropolis proposal 
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+is about to be rejected because of the following issue:is about to be rejected because of the following issue:
+
+
+
+
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.03258e+11Informational Message: The current Metropolis proposal Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 6.29405e+11Informational Message: The current Metropolis proposal Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 2.24879e+11
+
+is about to be rejected because of the following issue:
+is about to be rejected because of the following issue:
+If this warning occurs sporadically, such as for highly Informational Message: The current Metropolis proposal 
+If this warning occurs sporadically, such as for highly 
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then is about to be rejected because of the following issue:Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.22807e+11constrained variable types like covariance matrices, then Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 6.11007e+10constrained variable types like covariance matrices, then the sampler is fine,
+
+the sampler is fine,
+the sampler is fine,
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.44275e+11If this warning occurs sporadically, such as for highly 
+If this warning occurs sporadically, such as for highly 
+but if this warning occurs often then your model may be 
+constrained variable types like covariance matrices, then but if this warning occurs often then your model may be constrained variable types like covariance matrices, then but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.If this warning occurs sporadically, such as for highly the sampler is fine,either severely ill-conditioned or misspecified.the sampler is fine,either severely ill-conditioned or misspecified.
+constrained variable types like covariance matrices, then 
+
+
+
+the sampler is fine,but if this warning occurs often then your model may be but if this warning occurs often then your model may be 
+either severely ill-conditioned or misspecified.either severely ill-conditioned or misspecified.but if this warning occurs often then your model may be 
+
+
+either severely ill-conditioned or misspecified.Informational Message: The current Metropolis proposal 
+
+is about to be rejected because of the following issue:Informational Message: The current Metropolis proposal 
+is about to be rejected because of the following issue:Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1995.88
+
+Exception thrown at line 53: stan::math::uniform_log: Lower bound parameter is inf, but must be finite!If this warning occurs sporadically, such as for highly 
+constrained variable types like covariance matrices, then If this warning occurs sporadically, such as for highly the sampler is fine,constrained variable types like covariance matrices, then 
+the sampler is fine,but if this warning occurs often then your model may be 
+either severely ill-conditioned or misspecified.but if this warning occurs often then your model may be 
+either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 2.01806e+13
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.79034e+60
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 6.04116e+58
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.
+
+
+Informational Message: The current Metropolis proposal Informational Message: The current Metropolis proposal is about to be rejected because of the following issue:is about to be rejected because of the following issue:
+
+
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 7.09233e+60Informational Message: The current Metropolis proposal Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 4.28928e+58
+is about to be rejected because of the following issue:
+If this warning occurs sporadically, such as for highly 
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then Exception thrown at line 53: stan::math::uniform_log: Lower bound parameter is inf, but must be finite!constrained variable types like covariance matrices, then the sampler is fine,
+
+the sampler is fine,
+If this warning occurs sporadically, such as for highly Informational Message: The current Metropolis proposal 
+but if this warning occurs often then your model may be constrained variable types like covariance matrices, then is about to be rejected because of the following issue:but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.the sampler is fine,
+
+either severely ill-conditioned or misspecified.
+
+Informational Message: The current Metropolis proposal Exception thrown at line 53: stan::math::uniform_log: Lower bound parameter is inf, but must be finite!
+but if this warning occurs often then your model may be is about to be rejected because of the following issue:
+either severely ill-conditioned or misspecified.
+If this warning occurs sporadically, such as for highly 
+Exception thrown at line 53: stan::math::uniform_log: Lower bound parameter is inf, but must be finite!constrained variable types like covariance matrices, then 
+the sampler is fine,If this warning occurs sporadically, such as for highly 
+constrained variable types like covariance matrices, then but if this warning occurs often then your model may be the sampler is fine,either severely ill-conditioned or misspecified.
+
+
+but if this warning occurs often then your model may be Informational Message: The current Metropolis proposal either severely ill-conditioned or misspecified.is about to be rejected because of the following issue:
+
+Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 1.75028e+06
+If this warning occurs sporadically, such as for highly constrained variable types like covariance matrices, then the sampler is fine,
+
+but if this warning occurs often then your model may be Informational Message: The current Metropolis proposal either severely ill-conditioned or misspecified.is about to be rejected because of the following issue:
+
+
+Informational Message: The current Metropolis proposal Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 8.9973e+33is about to be rejected because of the following issue:
+
+If this warning occurs sporadically, such as for highly Exception thrown at line 53: stan::math::uniform_log: Upper bound parameter is 999, but must be greater than 4.06067e+14constrained variable types like covariance matrices, then 
+the sampler is fine,If this warning occurs sporadically, such as for highly 
+constrained variable types like covariance matrices, then but if this warning occurs often then your model may be the sampler is fine,either severely ill-conditioned or misspecified.
+
+but if this warning occurs often then your model may be either severely ill-conditioned or misspecified.

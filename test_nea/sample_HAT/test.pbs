@@ -1,0 +1,10 @@
+#PBS -l nodes=1:ppn=1
+#PBS -l walltime=00:12:00:00
+#PBS -A b1011
+#PBS -q astro
+#PBS -N roche
+
+arg=$1
+cd $PBS_O_WORKDIR
+module load python
+python run_pystan_2comp_2xl_overlap.py $arg
