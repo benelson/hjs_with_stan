@@ -34,3 +34,5 @@ Stan models are listed under the *.stan* file extension.
 Citations
 =======
 Coming soon...
+
+[![DOI](https://zenodo.org/badge/86486174.svg)](https://zenodo.org/badge/latestdoi/86486174)
