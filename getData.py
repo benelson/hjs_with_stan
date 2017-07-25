@@ -29,28 +29,40 @@ def clean_array(array):
 
 def create_array_from_file(filename):
     '''Creates a cleaned array from input file'''
+    inds = [1, 3,4,5,6, 7,8,9,10,  11,12,13,14, 15,16,17,18, 19,20,21,22, 23,24,25,26, 27,28,29,30, 32,33,34,35, \
+             36,37,38,39, 41,42,43,44, 46,47,48,49 ] 
+    array = []
     with open(filename) as f:
-        array = f.read().splitlines()
-    return clean_array(array)
+        for line in f:
+            if not line.startswith("#"):
+                array.append(line.split(","))
+    cleaned = np.transpose(array[1:])
+    cleaned = [ np.array(convert(cleaned[i])) for i in inds ]
+    return cleaned
+#    return clean_array(array)
 
-def exoplanetsORG_to_dict(filename):
+def NEA_to_dict(filename):
     tmp = create_array_from_file(filename)
-    tmp[8] = np.array([ 0.1 if isnan(i) or i==0. else i for i in tmp[8] ]) #Mstar_sigma
-    tmp[25] = np.array([ 1.2 if isnan(i) else i for i in tmp[25] ]) #rad
-    tmp[28] = np.array([ 0.1 if isnan(i) else i for i in tmp[28] ]) #inc
+    for i in range(46)[4::4]:
+        tmp[i] = (tmp[i-2] - tmp[i-1])/2.
+
+    tmp[20] = np.array([ 0.1 if isnan(i) else i for i in tmp[20] ]) #rad_sigma 
+    tmp[21] = np.array([ 1.2 if isnan(i) else i for i in tmp[21] ]) #rad 
+    tmp[24] = np.array([ 0.1 if isnan(i) else i for i in tmp[24] ]) #rad_sigma
 
     keys = [ "names",
-             "Mpl", "Mpl_upper", "Mpl_lower", "Mpl_sigma",\
-             "Mstar", "Mstar_upper", "Mstar_lower", "Mstar_sigma", \
-             "sma", "sma_upper", "sma_lower", "sma_sigma", \
              "per", "per_upper", "per_lower", "per_sigma", \
+             "sma", "sma_upper", "sma_lower", "sma_sigma", \
              "ecc", "ecc_upper", "ecc_lower", "ecc_sigma", \
-             "amp", "amp_upper", "amp_lower", "amp_sigma", \
+             "inc", "inc_upper", "inc_lower", "inc_sigma", \
+             "Mpl", "Mpl_upper", "Mpl_lower", "Mpl_sigma",\
              "rad", "rad_upper", "rad_lower", "rad_sigma", \
-             "inc", "inc_upper", "inc_lower", "inc_sigma",\
-             "vsi", "vsi_upper", "vsi_lower", "vsi_sigma",\
              "tem", "tem_upper", "tem_lower", "tem_sigma",\
-             "feh", "feh_upper", "feh_lower", "feh_sigma"]
+             "Mstar", "Mstar_upper", "Mstar_lower", "Mstar_sigma", \
+             "amp", "amp_upper", "amp_lower", "amp_sigma", \
+             "feh", "feh_upper", "feh_lower", "feh_sigma", \
+             "vsi", "vsi_upper", "vsi_lower", "vsi_sigma"]
+
     return dict(zip(keys, tmp))
 
 
@@ -163,6 +175,32 @@ def create_Stan_input(dic, transit=0):
             'ind': [ transit for i in range(len(x)) ],
             'indi': [ transit for i in range(len(xi)) ] }
 
+
+def create_Stan_input_ordered(dic, transit=0):
+    ilist = inc_to_sinionethird(dic["inc"])
+    xlist = (dic["per"]/365.242)**0.66667 * ( 0.462 * (dic["Mpl"] * MJtoMsun)**0.3333 ) / (dic["rad"] * RJtoAU)
+
+    return {'N': len(xlist),
+            'x': xlist }
+
+def create_Stan_input_alltransit(dic):
+    ilist = inc_to_sinionethird(dic["inc"])
+    xlist = (dic["per"]/365.242)**0.66667 * ( 0.462 * (dic["Mpl"] * MJtoMsun)**0.3333 ) / (dic["rad"] * RJtoAU)
+    
+    x = []
+    xi = []
+
+    for j,i in enumerate(ilist):
+        if isnan(i):
+            x.append(xlist[j])
+        else:
+            xi.append(xlist[j])
+
+    return {'N': len(x),
+            'Ni': len(xi),
+            'x': x,
+            'xi': xi }
+
 def create_Stan_input_mixture(dic, transit=0):
     ilist = inc_to_sinionethird(dic["inc"])
     xlist = (dic["per"]/365.242)**0.66667 * ( 0.462 * (dic["Mpl"] * MJtoMsun)**0.3333 ) / (dic["rad"] * RJtoAU)
@@ -182,6 +220,20 @@ def create_Stan_input_mixture(dic, transit=0):
             'xi': xi,
             'ind': [ transit for i in range(len(x)) ],
             'indi': [ transit for i in range(len(xi)) ] }
+
+
+def create_Stan_input_mixture_alltransit(dic):
+    ilist = inc_to_sinionethird(dic["inc"])
+    xlist = (dic["per"]/365.242)**0.66667 * ( 0.462 * (dic["Mpl"] * MJtoMsun)**0.3333 ) / (dic["rad"] * RJtoAU)
+
+    xi = []
+
+    for j,i in enumerate(ilist):
+        xi.append(xlist[j])
+    return {'K': 2,
+            'Ni': len(xi),
+            'xi': xi }
+
 
 def create_Stan_input_sigmas(dic, transit=0):
     ilist = inc_to_sinionethird(dic["inc"])
@@ -266,6 +318,31 @@ def create_Stan_input_mixture_sigmas(dic, transit=0):
             'indi': [ transit for i in range(len(peri)) ] }
 #            'Mstar': Mstar, 'Mstar_sigma': Mstar_sigma,                                                                                                                           
 #            'Mstari': Mpli,'Mstar_sigmai': Mstar_sigmai }    
+
+
+def create_Stan_input_mixture_sigmas_alltransit(dic):
+    ilist = inc_to_sinionethird(dic["inc"])
+
+    peri, radi, Mpli = [ [] for i in range(3) ]
+    per_sigmai, rad_sigmai, Mpl_sigmai = [ [] for i in range(3) ]
+
+    for j,i in enumerate(ilist):
+        peri.append(dic["per"][j])
+        radi.append(dic["rad"][j])
+        Mpli.append(dic["Mpl"][j])
+#       Mstari.append(dic["Mstar"][j])                                                                                                                                        
+        per_sigmai.append(dic["per_sigma"][j])
+        rad_sigmai.append(dic["rad_sigma"][j])
+        Mpl_sigmai.append(dic["Mpl_sigma"][j])
+#       Mstar_sigmai.append(dic["Mstar_sigma"][j])                                                                                                                            
+
+    return {'K': 2,
+            'Ni': len(peri),
+            'peri': peri, 'per_sigmai': per_sigmai,
+            'radi': radi, 'rad_sigmai': rad_sigmai,
+            'Mpli': Mpli,'Mpl_sigmai': Mpl_sigmai }
+#            'Mstar': Mstar, 'Mstar_sigma': Mstar_sigma,                                                                                                                           
+#            'Mstari': Mpli,'Mstar_sigmai': Mstar_sigmai }     
 
 
 def stan_output_to_posterior_samples_1comp(dic):
